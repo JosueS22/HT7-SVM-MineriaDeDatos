@@ -1,0 +1,11 @@
+---
+title: "Hoja de trabajo 7 - Máquinas Vectoriales de Soporte"
+author: "Josué Sagastume, Cristopher Barrios, Diego Ruiz"
+date: "22/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
